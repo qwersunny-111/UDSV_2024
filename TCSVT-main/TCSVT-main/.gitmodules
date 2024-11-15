@@ -1,0 +1,9 @@
+[submodule "other/BundledCameraPathVideoStabilization"]
+	path = other/BundledCameraPathVideoStabilization
+	url = git@github.com:lhlawrence/BundledCameraPathVideoStabilization.git
+[submodule "other/NNDVS"]
+	path = other/NNDVS
+	url = git@github.com:lhlawrence/NNDVS.git
+[submodule "other/IROS2023"]
+	path = other/IROS2023
+	url = git@github.com:lhlawrence/IROS_2023_ZhuCH.git

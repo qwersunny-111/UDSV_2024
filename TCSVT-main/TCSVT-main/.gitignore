@@ -1,0 +1,11 @@
+pic/
+experiments/data/
+experiments/results/
+other/DIFRINT/data/
+other/DIFRINT/output/
+other/DIFRINT/__pycache__/
+other/DIFRINT/models/__pycache__/
+other/DUTCode/images/
+other/meshflow/videos/
+other/SubspaceStab/build/
+src/warp/__pycache__
